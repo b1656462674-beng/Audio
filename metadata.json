@@ -1,0 +1,7 @@
+{
+  "name": "Voice Message Player",
+  "description": "A chat interface with a voice message player featuring custom playback speed controls.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
